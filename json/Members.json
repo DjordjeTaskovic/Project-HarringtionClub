@@ -1,0 +1,26 @@
+[
+
+{"id":0,
+"nazivslike":"Founder-Eric",
+"putanja":"img/members/eric.jpg",
+"opis":"But he was also able to exploit the profit potential in his creations,His impact on the way people live was and is pervasive. As a combination of inventive genius and entrepreneurial flair, he stands alone.",
+ "potpis":" -- Eric , Small Buisness Owner"},
+ {"id":1,
+"nazivslike":"Founder-Jonson",
+"putanja":"img/members/jonson.jpg",
+"opis":" He is both short-term and long-term strategic planner. Short-term planning  include whether to hold a sale over a holiday weekend and  schedule, while long-term strategic planning might include diversification of products.",
+ "potpis":" -- Jonson , Planner"
+ }
+,
+{"id":2,
+"nazivslike":"Founder-Ross",
+"putanja":"img/members/ross.jpg",
+"opis":" Within every entrepreneur lurks a touch of the cowboy, and there’s no better example of the strain than Perot,his winning idea was that large organizations that needed   to take full advantage of computer technology. ",
+ "potpis":" --  H. Ross Perot, Entrepreneur"},
+ {"id":3,
+"nazivslike":"Founder-Thomas",
+"putanja":"img/members/tomas.jpg",
+"opis":"Businessman vary dramatically big by industry and scale of the enterprise,but you can be certain that he is the owner of a small or medium-sized business  on the pulse of the finances of the company.",
+ "potpis":"-- Thomas , HI-class Buisnessman"
+ }
+]

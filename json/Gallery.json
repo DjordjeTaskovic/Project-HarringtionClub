@@ -1,0 +1,101 @@
+[
+    {
+        "slika":"p1.jpg",
+        "nazivslike":"Product 1",
+        "naziv":"Indoor Living Room",
+         "skraceniopis":"This Apatrman will satisfy all your desires.",
+         "siriopis":"Example of a britanian style open concept medium tone wood floor living/gatering room design in Denver with wooden walls.",
+        "dugmeid":0,
+        "filterisanje":"play",
+        "cena":122
+  
+    },
+    {
+        "slika":"p2.jpg",
+        "nazivslike":"Product 2",
+        "naziv":"Living Southern",
+         "skraceniopis":"Traditional family room ideal in our expansion selection with a standard.",
+         "siriopis":"Traditional family room ideal in our expansion selection with a standard cabinets, leving area furniture out further than fireplace.",
+        "dugmeid":1,
+        "filterisanje":"app",
+        "cena":94.3
+  
+    },
+    {
+        "slika":"p3.jpg",
+        "nazivslike":"Product 3",
+        "naziv":"Dining area",
+         "skraceniopis":"The next leve design open-face eating.",
+         "siriopis":"The clear cedar pergola frames the outdoor dining area. Located just off the kitchen makes outdoor dining easy and convenient.",
+        "dugmeid":2,
+        "filterisanje":"din",
+        "cena":105
+  
+    },
+    {
+        "slika":"p4.jpg",
+        "nazivslike":"Product 4",
+        "naziv":"Martina Gathering Room",
+         "skraceniopis":"Old historicly deap and elegantly preserved gatering area",
+         "siriopis":"Old historicly deap and elegantly preserved gatering area. Large indor saps with buzioase furnitore rastored and repurposed.",
+        "dugmeid":3,
+        "filterisanje":"play",
+        "cena":201
+  
+    },
+    {
+        "slika":"p5.jpg",
+        "nazivslike":"Product 5",
+        "naziv":"Cozy light open Gathering Room",
+         "skraceniopis":"Lorem ipsum dolor sit amet,consectetur adipiscing elit.",
+         "siriopis":"A tables for family meals (and homework and craft projects and...), a table for games. Custom wood  floating compliment the rustic beamed ceiling in this cozy. ",
+        "dugmeid":4,
+        "filterisanje":"din",
+        "cena":114
+  
+    },
+    {
+        "slika":"p6.jpg",
+        "nazivslike":"Product 6",
+        "naziv":"Deluxe Twin/Large Double",
+         "skraceniopis":"Our Deluxe Twin/Large Double also provides views over landscaped gardens.",
+         "siriopis":"Our Deluxe Twin/Large Double also provides views over landscaped gardens. It has a seating area, digital safe, minibar and luxurious duck down bedding. This room can be configured with either 2 single beds or zip and linked to provide a large double bed.",
+        "dugmeid":5,
+        "filterisanje":"bed",
+        "cena":97.9
+  
+    },
+    {
+      "slika":"p7.jpg",
+      "nazivslike":"Product 7",
+      "naziv":"Compact Double",
+       "skraceniopis":"This room is configured with zip and linked to provide a large double bed.",
+       "siriopis":"As our smallest budget rooms, the Compact bedrooms are suited for single occupancy or short-stay double occupancy as they have limited space and storage.",
+      "dugmeid":6,
+      "filterisanje":"bed",
+      "cena":84.9
+
+  },
+  {
+    "slika":"p8.jpg",
+    "nazivslike":"Product 8",
+    "naziv":"Witt Con's residence",
+     "skraceniopis":"Example of a large classic formal and open concept room.",
+     "siriopis":"Inviting gathering room for bussines partners and friends.Large classic formal and open concept light wood floor living room design in Santa Barbara with white walls, a standard fireplace, a stone fireplace and a media wall",
+    "dugmeid":7,
+    "filterisanje":"play",
+    "cena":141
+
+},
+{
+  "slika":"p9.jpg",
+  "nazivslike":"Product 9",
+  "naziv":"Birmingham Michigan Residence",
+   "skraceniopis":" New window wall costum construction with old world charm.",
+   "siriopis":" A family room for all ! Enormus window wall provides ample views to courtyard beyond. A modern sofa and natural wicker lounge chairs upholstered in leather provide sophistication and elegance. Indoor and outdoor plaster fireplaces are great for entertaining. New construction with old world charm.",
+  "dugmeid":8,
+  "filterisanje":"app",
+  "cena":211
+
+}
+  ]

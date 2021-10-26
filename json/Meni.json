@@ -1,0 +1,17 @@
+[
+{"naziv":"Services",
+"putanja":"#services"
+},
+{"naziv":"Room's",
+"putanja":"#gallery"
+},
+{"naziv":"About",
+"putanja":"#about"
+},
+{"naziv":"Member's",
+"putanja":"#members"
+},
+{"naziv":"Contact",
+"putanja":"#contact"
+}
+]
